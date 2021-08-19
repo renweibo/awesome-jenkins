@@ -1,4 +1,4 @@
-# awesome-jenkins
+# Awesome jenkins
 
 中文版
 
